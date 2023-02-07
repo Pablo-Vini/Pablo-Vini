@@ -37,9 +37,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>
-
-  ![Snake animation](https://github.com/Pablo-Vini/Pablo-Vini/blob/output/github-contribution-grid-snake.svg)
-  
-![snake gif](https://github.com/Pablo-Vini/Pablo-Vini/blob/output/github-contribution-grid-snake.svg)
-  
-  
+ 
