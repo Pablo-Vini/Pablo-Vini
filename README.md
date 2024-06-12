@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Vinícius;Sou+apaixonado+por+tecnologia;Sempre+busco+aprender+mais+sobre+as+várias+áreas+da+programação;E+estou+em+busca+de+uma+oportunidade+de+emprego)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Vinícius;Sou+apaixonado+por+tecnologia;Sempre+busco+aprender+mais+sobre+as+várias+áreas+da+programação;E+estou+trabalhando+como+desenvolvedor+de+software+com+Power+Apps)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/Pablo-Vini">
@@ -18,6 +18,7 @@
   <img align="center" alt="Pablo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Pablo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Pablo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pablo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
 </div>
 
 ### Estou estudando:
