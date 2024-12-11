@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Vinícius;Sou+apaixonado+por+tecnologia;Sempre+busco+evoluir+na+programação;Atualmente+estou+desenvolvendo+sites+com+Wordpress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Vinícius;Sou+desenvolvedor+web;Sempre+busco+evoluir+na+programação;Trabalho+como+Freelancer;Faço+sites+e+artes+necessárias+com+Canva)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/Pablo-Vini">
